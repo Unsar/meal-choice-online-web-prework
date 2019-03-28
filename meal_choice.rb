@@ -3,7 +3,7 @@
 
 #meal_choice
 def meal_choice(arg="meat")
-  "#{puts arg}"
+  "#{arg}"
 end
 
 meal_choice
